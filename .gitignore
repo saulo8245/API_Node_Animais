@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Directories for temporary files
+tmp/
+temp/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# Other
+.DS_Store
